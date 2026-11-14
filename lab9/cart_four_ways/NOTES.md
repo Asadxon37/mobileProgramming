@@ -1,6 +1,6 @@
 # Lab 9 notes: One Cart, Four Ways
 
-## Setup (run once)
+## Setup
 ```
 flutter create cart_four_ways --empty
 cd cart_four_ways
