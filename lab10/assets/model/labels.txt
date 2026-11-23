@@ -1,0 +1,6 @@
+0 Background
+1 phone
+2 pen
+3 notebook
+4 cup
+5 Knife
